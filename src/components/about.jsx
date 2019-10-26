@@ -13,8 +13,7 @@ export default class About extends Component {
                     <div className="about-desc">
                     <span className="heading-meta">About Us</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
-                    <p>I am a computer grad student from DAIICT-Gandhinagar with ICT as my major.I love exploring new technologies and often amazed by the progress we as a human species have mad so far in the recent years (apart from the headphone-jack part!!)</p>
-                    <p>I have started reflecting my ideas and thougths through the medium of words recently so spelling and grammer mistaks are very often.You can write me back if you spot any and don't want to live anymore :P </p>
+                    <p>Welcomes! I am Chaiyakarn, or everyone calls me "Kao." Currently, I am a senior student in Computer Science from the Bachelor of Science in Information and Communication Technology, Mahidol University. I am currently working on the Sleep stage signals prediction using Deep learning via Python programming. In addition, I joined one oversea internship program and on oversea work and travel program. Moreover, I am enthusiastic about working for an international company.</p>
                     </div>
                 </div>
                 </div>
@@ -26,7 +25,6 @@ export default class About extends Component {
         <div className="colorlib-narrow-content">
             <div className="row">
             <div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
-                <span className="heading-meta">What I do?</span>
                 <h2 className="colorlib-heading">Here are some of my expertise</h2>
             </div>
             </div>
