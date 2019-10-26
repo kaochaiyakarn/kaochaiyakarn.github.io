@@ -1,1 +1,0 @@
-# kaochaiyakarn.github.io
