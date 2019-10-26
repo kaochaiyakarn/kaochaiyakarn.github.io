@@ -3,7 +3,7 @@ export default class Interest extends Component{
     render(){
         return(
         <div>
-        <section className="colorlib-about" data-section="about"></section>
+        <section className="colorlib-about" data-section="interest"></section>
         <section className="colorlib-about">
         <div className="colorlib-narrow-content">
             <div className="row">
